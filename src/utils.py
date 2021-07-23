@@ -7,7 +7,6 @@ class Directory:
         if(not os.path.isdir(self.path)):
             print("Folder " + self.path + " not found!\nCreating...")
             os.mkdir(self.path)
-            print("Folder created succesfully!")
         else:
             print("Folder " + self.path + " already exists")
 
@@ -17,4 +16,3 @@ class File:
     def delete(self):
         print("Deleting file " + self.path)
         os.remove(self.path)
-        print("File deleted")
