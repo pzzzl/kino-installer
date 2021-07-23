@@ -1,4 +1,3 @@
-from os import path
 from env.config import *
 from src.download import Download
 from src.unzip import Unzip
