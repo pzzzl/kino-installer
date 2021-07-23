@@ -1,1 +1,1 @@
-# kino_installer
+# KiNO Installer
