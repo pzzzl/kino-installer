@@ -1,6 +1,6 @@
 from env.config import *
 from src.download import Download
-from src.unzip import Unzip, Unrar
+from src.unzip import Unzip
 from src.utils import Directory, File
 
 BEPINEX_ZIP = Download(url=URL_BEPINEX).start()
