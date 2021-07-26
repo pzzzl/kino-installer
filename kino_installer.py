@@ -19,13 +19,11 @@ Directory(path=KN_BASE_FOLDER).check()
 
 # DOWNLOAD & INSTALL CUSTOM TUNES
 TUNES_ZIP = Download(url=URL_TUNES).start()
-Directory(path=TUNES_FOLDER).check()
 Unzip(path=TUNES_ZIP, destination=TUNES_FOLDER).start()
 File(path=TUNES_ZIP).delete()
 
 # DOWNLOAD & INSTALL CUSTOM VISUALS (LIVERIES)
 VISUALS_ZIP = Download(url=URL_VISUALS).start()
-Directory(path=VISUALS_FOLDER).check()
 Unzip(path=VISUALS_ZIP, destination=VISUALS_FOLDER).start()
 File(path=VISUALS_ZIP).delete()
 
