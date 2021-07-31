@@ -1,5 +1,5 @@
 # URLs
-URL_BEPINEX = "https://github.com/BepInEx/BepInEx/releases/download/v5.4.13/BepInEx_x64_5.4.13.0.zip"
+URL_BEPINEX = "https://github.com/BepInEx/BepInEx/releases/download/v5.4.14/BepInEx_x64_5.4.14.0.zip"
 URL_KINO = "https://github.com/trbflxr/kino/releases/download/v2.5.7/release_2.5.7.zip"
 URL_NVA = "https://cdn.discordapp.com/attachments/713352414547148841/851924540027306055/NVA.rar"
 URL_TUNES = "https://github.com/pzzzl/kino-installer/raw/main/assets/tunes.zip"
