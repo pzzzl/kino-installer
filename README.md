@@ -35,6 +35,8 @@ KiNO Installer was developed using <img src="https://img.shields.io/badge/Python
 
 ## Contribution
 
+**SOON**
+
 ## Disclaimer
 
-**PENDING**
+**SOON**
