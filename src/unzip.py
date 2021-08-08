@@ -6,5 +6,5 @@ class Unzip:
         self.destination = destination
     def start(self):
         with zipfile.ZipFile(self.path, 'r') as zip_ref:
-            print("Extracting " + self.path)
+            print("Extracting " + self.path.rsplit('/', 1)[1])
             zip_ref.extractall(self.destination)

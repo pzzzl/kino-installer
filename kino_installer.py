@@ -19,6 +19,3 @@ Directory(path=KN_BASE_FOLDER).check()
 
 input("Press ENTER to exit...\n")
 exit()
-
-# DOWNLOAD NVA
-# NVA_RAR = Download(url=URL_NVA).start()
