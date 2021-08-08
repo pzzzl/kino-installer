@@ -17,15 +17,8 @@ File(path=KINO_ZIP).delete()
 # CREATE KINO FOLDER
 Directory(path=KN_BASE_FOLDER).check()
 
-# DOWNLOAD & INSTALL CUSTOM TUNES
-TUNES_ZIP = Download(url=URL_TUNES).start()
-Unzip(path=TUNES_ZIP, destination=TUNES_FOLDER).start()
-File(path=TUNES_ZIP).delete()
-
-# DOWNLOAD & INSTALL CUSTOM VISUALS (LIVERIES)
-VISUALS_ZIP = Download(url=URL_VISUALS).start()
-Unzip(path=VISUALS_ZIP, destination=VISUALS_FOLDER).start()
-File(path=VISUALS_ZIP).delete()
+input("Press ENTER to exit...\n")
+exit()
 
 # DOWNLOAD NVA
-NVA_RAR = Download(url=URL_NVA).start()
+# NVA_RAR = Download(url=URL_NVA).start()
