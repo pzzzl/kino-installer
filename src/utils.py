@@ -1,4 +1,6 @@
 import os
+from tkinter import Tk
+from tkinter.filedialog import askdirectory
 
 class Directory:
     def __init__(self, path):
@@ -16,3 +18,13 @@ class File:
     def delete(self):
         print("Deleting file " + self.path.rsplit('/', 1)[1])
         os.remove(self.path)
+
+class Path:
+    def __init__(self, title):
+        self.title = title
+        self.tk = Tk()
+        self.tk.withdraw()
+    def ask(self):
+        self.path = askdirectory(title=self.title)
+        self.tk.destroy()
+        return self.path
