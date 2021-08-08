@@ -28,4 +28,4 @@ Unzip(path=VISUALS_ZIP, destination=VISUALS_FOLDER).start()
 File(path=VISUALS_ZIP).delete()
 
 # DOWNLOAD NVA
-NVA_ZIP = Download(url=URL_NVA).start()
+NVA_RAR = Download(url=URL_NVA).start()
