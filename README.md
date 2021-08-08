@@ -2,8 +2,8 @@
 <h1 align="center"><b>KiNO Installer</b></h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/tools-utilities-blue"> <br />
-<img src="https://img.shields.io/badge/status-updated-green"><br />
+<img src="https://img.shields.io/badge/tools-utilities-blue">
+<img src="https://img.shields.io/badge/status-updated-green">
 <img src="https://img.shields.io/badge/version-beta-red">
 <!-- <img src="https://img.shields.io/badge/status-outdated-red"> -->
 </p>
