@@ -5,9 +5,9 @@
 <a href="https://github.com/trbflxr/kino">KiNO's official page</a><br/><a href="https://github.com/BepInEx/BepInEx">BepInEx's official page</a>
 <br/><br/>
 <img src="https://img.shields.io/badge/tools-utilities-blue">
-<!-- <img src="https://img.shields.io/badge/status-updated-green"> -->
-<img src="https://img.shields.io/badge/status-outdated-red">
-<img src="https://img.shields.io/badge/version-beta-red">
+<img src="https://img.shields.io/badge/status-updated-green">
+<!-- <img src="https://img.shields.io/badge/status-outdated-red"> -->
+<img src="https://img.shields.io/badge/version-1.0.0-red">
 
 </p>
 
@@ -20,7 +20,7 @@
 
 ## About
 
-**KiNO Installer** is a tool to speed up either <img src="https://img.shields.io/badge/KiNO-v2.6.1-orange"> as <img src="https://img.shields.io/badge/BepInEx-v5.4.15-brightgreen"> installation (which is a KiNO requirement). This installer is updated on every version of one of these two softwares. If you see the <img src="https://img.shields.io/badge/status-outdated-red"> badge at the top of this documentation, one of these two softwares aren't at their latest version in this installer.
+**KiNO Installer** is a tool to speed up either <img src="https://img.shields.io/badge/KiNO-v3.0.1-orange"> as <img src="https://img.shields.io/badge/BepInEx-v5.4.15-brightgreen"> installation (which is a KiNO requirement). This installer is updated on every version of one of these two softwares. If you see the <img src="https://img.shields.io/badge/status-outdated-red"> badge at the top of this documentation, one of these two softwares aren't at their latest version in this installer.
 
 **BepInEx here is used exclusively for KiNO MOD and won't work directly on other games.**
 
