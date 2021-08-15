@@ -1,7 +1,13 @@
 from src.utils import Path
+import requests
 
-URL_BEPINEX = "https://github.com/BepInEx/BepInEx/releases/download/v5.4.15/BepInEx_x64_5.4.15.0.zip"
-URL_KINO = "https://github.com/trbflxr/kino/releases/download/v2.6.1/release_2.6.1.zip"
+URL_LATEST_VERSIONS = "https://raw.githubusercontent.com/pzzzl/kino-installer/main/version/latest.json"
+
+response = requests.get(URL_LATEST_VERSIONS)
+versions = response.json()
+
+URL_KINO = versions["kino"]
+URL_BEPINEX = versions["bepinex"]
 
 CARX_FOLDER = Path(title="SELECT CARX FOLDER").ask()
 

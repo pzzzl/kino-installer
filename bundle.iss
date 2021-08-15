@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "KiNO Installer"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.0"
 #define MyAppPublisher "Bruno Peselli"
 #define MyAppURL "https://github.com/pzzzl/kino-installer"
 #define MyAppExeName "kino_installer.exe"
@@ -10,7 +10,7 @@
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{F4B297D5-B4EB-4CC9-9116-9818A62E5EA9}
+AppId={{DF865444-9374-4D69-B493-A5F00ADAE21C}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
@@ -24,6 +24,7 @@ DisableProgramGroupPage=yes
 LicenseFile=C:\Users\bruno\Documents\GIT\kino-installer\COPYING.txt
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
+PrivilegesRequiredOverridesAllowed=dialog
 OutputDir=C:\Users\bruno\Documents\GIT\kino-installer
 OutputBaseFilename=KiNO Installer
 SetupIconFile=C:\Users\bruno\Documents\GIT\kino-installer\public\ico\KiNO_INSTALLER_ICON.ico
