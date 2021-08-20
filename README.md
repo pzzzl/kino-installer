@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/status-updated-green">
 <!-- <img src="https://img.shields.io/badge/status-outdated-red"> -->
 <img src="https://img.shields.io/badge/tools-utilities-blue">
-<img src="https://img.shields.io/badge/KiNO-v3.0.1-orange">
+<img src="https://img.shields.io/badge/KiNO-v3.0.2-orange">
 <img src="https://img.shields.io/badge/BepInEx-v5.4.15-brightgreen">
 <img src="https://img.shields.io/badge/Python-3.9.6-lightyellow">
 
