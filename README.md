@@ -36,7 +36,7 @@
 
 ## How it works?
 
-Given the CarX directory, the program either download or update your mod with the last files, pretty util when something is broken. Liveries, tunes or anything associated with the modifications will remain.
+Given the CarX directory, the program either download or update your mod with the latest files, pretty util when something is broken. Liveries, tunes or anything associated with the modifications will remain.
 
 ## Contribution
 
