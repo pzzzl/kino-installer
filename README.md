@@ -5,7 +5,7 @@
 <a href="https://github.com/trbflxr/kino">KiNO's official page</a><br/><a href="https://github.com/BepInEx/BepInEx">BepInEx's official page</a>
 <br/><br/>
 <img src="https://img.shields.io/badge/version-1.0.0-red">
-<img src="https://img.shields.io/badge/status-updated-green">
+<img src="https://img.shields.io/badge/status-obsolete-red">
 <!-- <img src="https://img.shields.io/badge/status-outdated-red"> -->
 <img src="https://img.shields.io/badge/tools-utilities-blue">
 <img src="https://img.shields.io/badge/KiNO-v3.2.1-orange">
