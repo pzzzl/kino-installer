@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>KiNO Installer</b></h1>
+<h1 align="center"><b>KiNO Installer - OBSOLETE</b></h1>
 
 <p align="center">
 <a href="https://github.com/trbflxr/kino">KiNO's official page</a><br/><a href="https://github.com/BepInEx/BepInEx">BepInEx's official page</a>
